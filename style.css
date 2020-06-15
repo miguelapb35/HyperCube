@@ -1,0 +1,19 @@
+@import url(https://fonts.googleapis.com/css?family=Poiret+One);
+
+body{
+  width: 100%;
+  margin: 0;
+  overflow: hidden;
+  background: hsla(0,0%,10%,1);
+  font-family: 'Poiret One', serif;
+}
+h4{
+  position: relative;
+  width: 100%;
+  left: 0;
+  text-align: center;
+  bottom: 0;
+  color: hsla(0,0%,5%,1);
+  letter-spacing: 8px;
+  font-size: 2em;
+}
